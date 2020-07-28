@@ -14,14 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-     /*   startActivity(new Intent(MainActivity.this,MainSplash.class));
-        try {
-            sleep(11001);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        // close splash activity
-        finish();*/
+     
 
     }
 }
